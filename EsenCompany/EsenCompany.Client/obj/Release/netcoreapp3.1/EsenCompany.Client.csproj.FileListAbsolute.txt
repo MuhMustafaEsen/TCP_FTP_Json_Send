@@ -1,0 +1,16 @@
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\bin\Release\netcoreapp3.1\EsenCompany.Client.exe
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\bin\Release\netcoreapp3.1\EsenCompany.Client.deps.json
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\bin\Release\netcoreapp3.1\EsenCompany.Client.runtimeconfig.json
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\bin\Release\netcoreapp3.1\EsenCompany.Client.runtimeconfig.dev.json
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\bin\Release\netcoreapp3.1\EsenCompany.Client.dll
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\bin\Release\netcoreapp3.1\EsenCompany.Client.pdb
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\bin\Release\netcoreapp3.1\FluentFTP.dll
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\obj\Release\netcoreapp3.1\EsenCompany.Client.csprojAssemblyReference.cache
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\obj\Release\netcoreapp3.1\EsenCompany.Client.csproj.CoreCompileInputs.cache
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\obj\Release\netcoreapp3.1\EsenCompany.Client.AssemblyInfoInputs.cache
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\obj\Release\netcoreapp3.1\EsenCompany.Client.AssemblyInfo.cs
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\obj\Release\netcoreapp3.1\EsenCompany.Client.csproj.CopyComplete
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\obj\Release\netcoreapp3.1\EsenCompany.Client.dll
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\obj\Release\netcoreapp3.1\EsenCompany.Client.pdb
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Client\obj\Release\netcoreapp3.1\EsenCompany.Client.genruntimeconfig.cache

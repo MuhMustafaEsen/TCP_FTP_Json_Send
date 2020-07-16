@@ -1,0 +1,15 @@
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\bin\Debug\EsenCompany.UI.exe.config
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\bin\Debug\EsenCompany.UI.exe
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\bin\Debug\EsenCompany.UI.pdb
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\bin\Debug\Newtonsoft.Json.dll
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\bin\Debug\Newtonsoft.Json.xml
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\obj\Debug\EsenCompany.UI.MainPageFrm.resources
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\obj\Debug\EsenCompany.UI.Properties.Resources.resources
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\obj\Debug\EsenCompany.UI.csproj.GenerateResource.cache
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\obj\Debug\EsenCompany.UI.csproj.CoreCompileInputs.cache
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\obj\Debug\EsenCompany.UI.csproj.CopyComplete
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\obj\Debug\EsenCompany.UI.exe
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\obj\Debug\EsenCompany.UI.pdb
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\obj\Debug\EsenCompany.UI.csprojAssemblyReference.cache
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\bin\Debug\EsenCompany.Entities.dll
+M:\Robo\Gorsel\EsenCompany\EsenCompany.UI\bin\Debug\EsenCompany.Entities.pdb

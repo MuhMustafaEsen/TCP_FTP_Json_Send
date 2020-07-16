@@ -1,0 +1,6 @@
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Entities\bin\Debug\EsenCompany.Entities.dll
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Entities\bin\Debug\EsenCompany.Entities.pdb
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Entities\obj\Debug\EsenCompany.Entities.csprojAssemblyReference.cache
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Entities\obj\Debug\EsenCompany.Entities.csproj.CoreCompileInputs.cache
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Entities\obj\Debug\EsenCompany.Entities.dll
+M:\Robo\Gorsel\EsenCompany\EsenCompany.Entities\obj\Debug\EsenCompany.Entities.pdb
